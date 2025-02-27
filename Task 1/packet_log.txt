@@ -1,0 +1,1959 @@
+Source: 20.189.173.6 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49313
+--------------------------------------------------
+Source: 20.189.173.6 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49313
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49313 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49313 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49313 → Dst Port: 443
+--------------------------------------------------
+Source: 20.189.173.6 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49313
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49315 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49316 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49315
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49315 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49315 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49315 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49316
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49316 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49316 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49316 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49315
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49315
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49316
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49316
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49317 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49318 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49319 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49317
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49317 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49317 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49318
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49317 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49318 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49318 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49318 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49319
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49319 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49319 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49319 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49317
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49317
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49318
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49318
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49319
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49319
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49320 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49316
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49319
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49311 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49311 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49317
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49318
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49316 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49319 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49316
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49319
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49319 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49316 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49319
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49316
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49319 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49316 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49318 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49317 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49318
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49317
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49317 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49318 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49317
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49318
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49317 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49318 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49315
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49315 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49315
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49315 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49315
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49315 → Dst Port: 53
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 20.189.173.6 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49320
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49320 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49320 → Dst Port: 443
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 20.189.173.6 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49311
+--------------------------------------------------
+Source: 20.189.173.6 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49311
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49311 → Dst Port: 443
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 20.189.173.6 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49320
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49320 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49322 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49323 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49324 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49325 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49326 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49327 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49322
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49323
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49328 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49322 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49323 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49329 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49330 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49322 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49322 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49323 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49323 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49324
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49324 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49324 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49324 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49325
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49326
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49325 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49326 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49325 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49325 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49326 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49326 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49329
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49330
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49322
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49329 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49330 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49329 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49329 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49330 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49330 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49322
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49323
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49323
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49324
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49324
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49325
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49325
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49326
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49326
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49329
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49329
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49330
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49330
+--------------------------------------------------
+Source: 3.233.158.25 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49307
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49330
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49326
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49329
+--------------------------------------------------
+Source: 3.233.158.25 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49308
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49322
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49323
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49324
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49325
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49326 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49330 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49329 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49330
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49326
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49329
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49329 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49326 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49330 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49329
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49329 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49330
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49326
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49330 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49326 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49322 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49323 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49323
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49322
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49323 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49322 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49323
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49322
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49323 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49322 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49324 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49325 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49325
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49324
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49324 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49325 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49324
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49324 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49331 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49332 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49333 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49325
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49325 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49331
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49332
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49333
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49331 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49332 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49333 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49331 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49331 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49332 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49332 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49333 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49333 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49331
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49331
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49332
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49332
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49333
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49333
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49334 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49335 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49336 → Dst Port: 53
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49321
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49334
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49321 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49334 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49335
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49336
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49335 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49336 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49334 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49334 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49335 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49335 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49336 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49336 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49334
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49334
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49335
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49335
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49336
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49336
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49331
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49332
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49333
+--------------------------------------------------
+Source: 20.189.173.6 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49320
+--------------------------------------------------
+Source: 20.189.173.6 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49320
+--------------------------------------------------
+Source: 20.189.173.6 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49320
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49320 → Dst Port: 443
+--------------------------------------------------
+Source: 20.189.173.6 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49320
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49320 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49320 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49331 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49331
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49331 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49331
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49331 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49333 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49332 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49332
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49333
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49332 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49333 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49338 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49339 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49340 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49332
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49333
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49338
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49332 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49333 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49338 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49338 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49339
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49338 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49339 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49339 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49339 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49340
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49340 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49341 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49342 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49343 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49340 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49340 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49338
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49338
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49339
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49339
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49341
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49341 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49341 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49341 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49342
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49343
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49340
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49340
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49342 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49343 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49342 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49342 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49343 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49343 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49341
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49341
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49342
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49342
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49343
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49343
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49335
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49336
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49335 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49335
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49335 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49335
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49335 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49336 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49336
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49336 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49336
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49336 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49334
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49341
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49339
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49343
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49342
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49334 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49334
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49334 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 52.231.230.148
+Protocol: TCP | Src Port: 49344 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49334
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49334 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49343 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49342 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49339 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49341 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49343
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49342
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49339
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49341
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49343 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49341 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49339 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49342 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 60738 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 60738 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49343
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49341
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49339
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49342
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49343 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49341 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49339 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49342 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 55613 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 55613 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49345 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49346 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49347 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49345
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49345 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49346
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49347
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49345 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49345 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49346 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49347 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49346 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49346 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49347 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49347 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49345
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49345
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49346
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49346
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49347
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49347
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49338
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49340
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49338 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49338
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49338 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49338
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49338 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49340 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49340
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49340 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49340
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49340 → Dst Port: 53
+--------------------------------------------------
+Source: 20.189.173.6 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49320
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49346
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 60738
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 60738
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 60738
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 60738
+--------------------------------------------------
+Source: 20.189.173.6 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49320
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 60738
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 60738 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 60738 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 60738 → Dst Port: 443
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 55613
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 55613
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 55613
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 55613
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 55613
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 55613 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 55613 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 55613 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49347
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49345
+--------------------------------------------------
+Source: 52.231.230.148 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49344
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 52.231.230.148
+Protocol: TCP | Src Port: 49344 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 52.231.230.148
+Protocol: TCP | Src Port: 49344 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49320 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49346 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49346
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49346 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49346
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49346 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49347 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49345 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49347
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49345
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49347 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49345 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49347
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49347 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 131.253.33.203
+Protocol: TCP | Src Port: 49350 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49345
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49345 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 18.64.141.107
+Protocol: TCP | Src Port: 49351 → Dst Port: 443
+--------------------------------------------------
+Source: 20.189.173.6 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49320
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49320 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49320 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 20.189.173.6
+Protocol: TCP | Src Port: 49320 → Dst Port: 443
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 60738
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 60738
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 60738
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 60738
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 60738 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 60738 → Dst Port: 443
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 60738
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 60738
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 60738
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 60738
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 60738 → Dst Port: 443
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 55613
+--------------------------------------------------
+Source: 18.64.141.107 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49351
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 55613
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 55613
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 55613
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 18.64.141.107
+Protocol: TCP | Src Port: 49351 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 55613 → Dst Port: 443
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 55613
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 55613
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 18.64.141.107
+Protocol: TCP | Src Port: 49351 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 55613 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 60738 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 23.55.44.104
+Protocol: UDP | Src Port: 55613 → Dst Port: 443
+--------------------------------------------------
+Source: 131.253.33.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49350
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 131.253.33.203
+Protocol: TCP | Src Port: 49350 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 131.253.33.203
+Protocol: TCP | Src Port: 49350 → Dst Port: 443
+--------------------------------------------------
+Source: 18.64.141.107 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49351
+--------------------------------------------------
+Source: 18.64.141.107 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49351
+--------------------------------------------------
+Source: 18.64.141.107 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49351
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 18.64.141.107
+Protocol: TCP | Src Port: 49351 → Dst Port: 443
+--------------------------------------------------
+Source: 18.64.141.107 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49351
+--------------------------------------------------
+Source: 18.64.141.107 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49351
+--------------------------------------------------
+Source: 18.64.141.107 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49351
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 18.64.141.107
+Protocol: TCP | Src Port: 49351 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 18.64.141.107
+Protocol: TCP | Src Port: 49351 → Dst Port: 443
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 55613
+--------------------------------------------------
+Source: 23.55.44.104 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 443 → Dst Port: 60738
+--------------------------------------------------
+Source: 52.231.230.148 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49344
+--------------------------------------------------
+Source: 52.231.230.148 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49344
+--------------------------------------------------
+Source: 52.231.230.148 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49344
+--------------------------------------------------
+Source: 52.231.230.148 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49344
+--------------------------------------------------
+Source: 52.231.230.148 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49344
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 52.231.230.148
+Protocol: TCP | Src Port: 49344 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 52.231.230.148
+Protocol: TCP | Src Port: 49344 → Dst Port: 443
+--------------------------------------------------
+Source: 18.64.141.107 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49351
+--------------------------------------------------
+Source: 18.64.141.107 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49351
+--------------------------------------------------
+Source: 18.64.141.107 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49351
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 18.64.141.107
+Protocol: TCP | Src Port: 49351 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49328 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49328
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49328 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49328 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49328 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49328
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49328
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49352 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49352
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49352 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49352 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49352 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49352
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49352
+--------------------------------------------------
+Source: 131.253.33.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49350
+--------------------------------------------------
+Source: 131.253.33.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49350
+--------------------------------------------------
+Source: 131.253.33.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49350
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 131.253.33.203
+Protocol: TCP | Src Port: 49350 → Dst Port: 443
+--------------------------------------------------
+Source: 20.189.173.6 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49320
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49328
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49352
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49328 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49352 → Dst Port: 53
+--------------------------------------------------
+Source: 131.253.33.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49350
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49352
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49328
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49352 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49352 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49328 → Dst Port: 53
+--------------------------------------------------
+Source: 131.253.33.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49350
+--------------------------------------------------
+Source: 131.253.33.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49350
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 131.253.33.203
+Protocol: TCP | Src Port: 49350 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: UDP | Src Port: 53699 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: UDP | Src Port: 65427 → Dst Port: 53
+--------------------------------------------------
+Source: 131.253.33.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49350
+--------------------------------------------------
+Source: 131.253.33.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49350
+--------------------------------------------------
+Source: 131.253.33.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49350
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 131.253.33.203
+Protocol: TCP | Src Port: 49350 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 131.253.33.203
+Protocol: TCP | Src Port: 49350 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49328
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49328 → Dst Port: 53
+--------------------------------------------------
+Source: 52.231.230.148 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49344
+--------------------------------------------------
+Source: 52.231.230.148 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49344
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 52.231.230.148
+Protocol: TCP | Src Port: 49344 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 53 → Dst Port: 53699
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 53 → Dst Port: 65427
+--------------------------------------------------
+Source: 131.253.33.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49350
+--------------------------------------------------
+Source: 131.253.33.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49350
+--------------------------------------------------
+Source: 131.253.33.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49350
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 131.253.33.203
+Protocol: TCP | Src Port: 49350 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: UDP | Src Port: 53699 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: UDP | Src Port: 65427 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 53 → Dst Port: 53699
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: UDP | Src Port: 53 → Dst Port: 65427
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 13.93.211.12
+Protocol: TCP | Src Port: 49356 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49357 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49358 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49359 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49357
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49358
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49359
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49357 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49358 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49359 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49359 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49359 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49358 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49358 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49357 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49357 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49359
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49359
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49358
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49358
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49357
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49357
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49359
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49358
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49357
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49359 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49358 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49359
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49358
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49359 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49358 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49358
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49359
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49358 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49359 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49357 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49357
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49357 → Dst Port: 53
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49360 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.246 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 53 → Dst Port: 49357
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 192.168.15.246
+Protocol: TCP | Src Port: 49357 → Dst Port: 53
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49360
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49360 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49360 → Dst Port: 443
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49360
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49360
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49360
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49360 → Dst Port: 443
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49360
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49360
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49360
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49360
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49360
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49360 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49360 → Dst Port: 443
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49360
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49360
+--------------------------------------------------
+Source: 204.79.197.203 → Destination: 192.168.15.172
+Protocol: TCP | Src Port: 443 → Dst Port: 49360
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 204.79.197.203
+Protocol: TCP | Src Port: 49360 → Dst Port: 443
+--------------------------------------------------
+Source: 192.168.15.172 → Destination: 13.93.211.12
+Protocol: TCP | Src Port: 49356 → Dst Port: 443
+--------------------------------------------------
