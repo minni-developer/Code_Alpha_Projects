@@ -34,3 +34,4 @@ def log_packet(packet):
 
 # Start sniffing with filters applied
 sniff(prn=log_packet, store=False)
+cd tas
